@@ -26,7 +26,7 @@ This will build an image for a Palmetto system. There exists default
 configurations for other platforms in openpower/configs/ such as
 Habanero and Firestone.
 
-### Dependancies for *64-bit* Ubuntu/Debian systems
+### Dependencies for *64-bit* Ubuntu/Debian systems
 
 1. Install Ubuntu (>= 14.04) or Debian (>= 7.5) 64-bit.
 2. Enable Universe:
@@ -41,7 +41,7 @@ Habanero and Firestone.
           libxml-simple-perl libxml-sax-perl libxml2-dev libxml2-utils xsltproc \
           wget bc
 
-### Dependancies for *64-bit* Fedora systems
+### Dependencies for *64-bit* Fedora systems
 
 1. Install Fedora 23 64-bit.
 2. Install the packages necessary for the build:
